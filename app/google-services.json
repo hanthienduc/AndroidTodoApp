@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "99260133864",
+    "firebase_url": "https://androidtodoapp-da26c.firebaseio.com",
+    "project_id": "androidtodoapp-da26c",
+    "storage_bucket": "androidtodoapp-da26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:99260133864:android:441d2d66c84bfdcb",
+        "android_client_info": {
+          "package_name": "edu.poly.androidtodoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "99260133864-btgiaeup78rmqmojghjpg5h1vo8rmj8r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.poly.androidtodoapp",
+            "certificate_hash": "E8BE69A84CB3E98CAA2ACE8F754E3E0D2C3EDD5B"
+          }
+        },
+        {
+          "client_id": "99260133864-6he2bqo4mglh708ng5saps2u2vtpukf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6H5KbEowNONtxeDu5qedfVD1miYgVkuM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "99260133864-6he2bqo4mglh708ng5saps2u2vtpukf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
